@@ -19,22 +19,22 @@
 
 - (**YOLOv1**) Redmon, Joseph, et al. "**You only look once: Unified, real-time object detection**." arXiv preprint arXiv:1506.02640 (2015). [[pdf]](http://homes.cs.washington.edu/~ali/papers/YOLO.pdf) **(YOLO,Oustanding Work, really practical)** 
 
-- (**SSD**) Liu, Wei, et al. "**SSD: Single Shot MultiBox Detector**." arXiv preprint arXiv:1512.02325 (2015). [[pdf]](http://arxiv.org/pdf/1512.02325)
+- (**SSD**) Liu, Wei, et al. "**SSD: Single Shot MultiBox Detector**." ECCV2016 [[pdf]](http://arxiv.org/pdf/1512.02325)
 
 - (**R-FCN**) Dai, Jifeng, et al. "**R-FCN: Object Detection via
 Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2016). [[pdf]](https://arxiv.org/abs/1605.06409) 
 
-- (**YOLOv2**)  "**YOLO9000: Better, Faster, Stronger**"    arXiv preprint arXiv:1612.08242 (2016). [[pdf]](https://arxiv.org/abs/1612.08242) 
+- (**YOLOv2**)  "**YOLO9000: Better, Faster, Stronger**"    CVPR2017 [[pdf]](https://arxiv.org/abs/1612.08242) 
 
 - (**FPN**)  "**Feature Pyramid Networks for Object Detection**"  arXiv preprint arXiv:1612.03144 (2018). [[pdf]](https://arxiv.org/abs/1612.03144) 
 
-- (**Mask R-CNN**) He, Gkioxari, et al. "**Mask R-CNN**" arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/abs/1703.06870) 
+- (**Mask R-CNN**) He, Gkioxari, et al. "**Mask R-CNN**" ICCV2017. [[pdf]](https://arxiv.org/abs/1703.06870) 
 
 - (**Light-Head R-CNN**)  "**Light-Head R-CNN: In Defense of Two-Stage Object Detector**" arXiv preprint arXiv:1711.07264 (2017). [[pdf]](https://arxiv.org/abs/1711.07264) 
 
 - (**YOLOv3**)  "**YOLOv3: An Incremental Improvement**" arXiv preprint arXiv:1804.02767 (2018). [[pdf]](https://arxiv.org/abs/1804.02767) 
 
-- (**CornerNet**) "**CornerNet: Detecting Objects as Paired Keypoints**"  arXiv preprint arXiv:1808.01244 (2018). [[pdf]](https://arxiv.org/abs/1808.01244) 
+- (**CornerNet**) "**CornerNet: Detecting Objects as Paired Keypoints**" ECCV2018. [[pdf]](https://arxiv.org/abs/1808.01244) 
 
 
 ## Face Detection
