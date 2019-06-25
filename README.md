@@ -13,7 +13,7 @@
 - (**GENet**) Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks
 - (**Non-Local-Network**) Non-local Neural Networks
 - (**GCNet**) GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond
-* Rethinking ImageNet Pre-training
+- Rethinking ImageNet Pre-training
 
 ## light-weight network
 - (**SqueezeNet**) SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size
@@ -67,9 +67,6 @@ Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2
 * (**PyramidBox**)PyramidBox: A Context-assisted Single Shot Face Detector
 * (**SRN**)SRN:Selective Refinement Network for High Performance Face Detection
 * (**ISRN**)Improved Selective Refinement Network for Face Detection
-
-
-## Video Detection
 
 
 ## semantic segmentation
