@@ -61,32 +61,32 @@ Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2
 
 
 ## Face Detection
-* S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
-* SSH: Single Stage Headless Face Detector(**SSH**)
-* DSFD: Dual Shot Face Detector(**DSFD**)
-* PyramidBox: A Context-assisted Single Shot Face Detector(**PyramidBox**)
-* SRN:Selective Refinement Network for High Performance Face Detection(**SRN**)
-* Improved Selective Refinement Network for Face Detection(**ISRN**)
+* (**SFD**)S3FD: Single Shot Scale-invariant Face Detector
+* (**SSH**)SSH: Single Stage Headless Face Detector
+* (**DSFD**)DSFD: Dual Shot Face Detector
+* (**PyramidBox**)PyramidBox: A Context-assisted Single Shot Face Detector
+* (**SRN**)SRN:Selective Refinement Network for High Performance Face Detection
+* (**ISRN**)Improved Selective Refinement Network for Face Detection
 
 
 ## Video Detection
 
 
 ## semantic segmentation
-* Fully Convolutional Networks for Semantic Segmentation(**FCN**)
-* SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation(**SegNet**)
-* U-Net: Convolutional Networks for Biomedical Image Segmentation(**UNet**) 
-* DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution,and Fully Connected CRFs(**Deeplab v2**)
-* Pyramid Scene Parsing Network(**PSPNet**)
-* Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network(**GCN**)
-* Rethinking Atrous Convolution for Semantic Image Segmentation(**Deeplab v3**)
-* DenseASPP for Semantic Segmentation in Street Scenes（**DenseASPP**）
-* Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation(**Deeplab v3plus**）
-* Context Encoding for Semantic Segmentation(**EncNet**)
-* Dilated Residual Networks(**DRN**)
-* Dual Attention Network for Scene Segmentation(**DANet**)
-* OCNet:Object Context Network for Scene Parsing(**OCNet**)
-* ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation(**ZigZagNet**)
+* (**FCN**) Fully Convolutional Networks for Semantic Segmentation
+* (**SegNet**)SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
+* (**UNet**) U-Net: Convolutional Networks for Biomedical Image Segmentation
+* (**Deeplab v2**)DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution,and Fully Connected CRFs
+* (**PSPNet**)Pyramid Scene Parsing Network
+* (**GCN**)Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network
+* (**Deeplab v3**)Rethinking Atrous Convolution for Semantic Image Segmentation
+* (**DenseASPP**)DenseASPP for Semantic Segmentation in Street Scenes
+* (**Deeplab v3+**）Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
+* (**EncNet**)Context Encoding for Semantic Segmentation
+* (**DRN**)Dilated Residual Networks
+* (**DANet**)Dual Attention Network for Scene Segmentation
+* (**OCNet**)OCNet:Object Context Network for Scene Parsing
+* (**ZigZagNet**)ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation
 
 
  
